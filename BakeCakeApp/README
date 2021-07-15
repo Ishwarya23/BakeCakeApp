@@ -1,1 +1,5 @@
 BakecakeApp - Collects user details and add in mongodb  
+Frontend - HTML, CSS
+Backend - Flask, MongoDB
+
+Application gets the order details and calculates the amount of the order and places the order(adds details into db)
